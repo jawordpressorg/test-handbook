@@ -1,8 +1,17 @@
+<!--
 # Welcome!
+-->
+# ようこそ！
 
+<!--
 This group exists to raise the quality of the WordPress experience through testing.
+-->
+このグループは、テストを通してWordPressの体験の質を高めるために存在しています。
 
+<!--
 We practice monitoring important [flows](https://make.wordpress.org/test/glossary/). Bugs and bad experiences encountered while on flow patrol are [kibbled](https://make.wordpress.org/test/glossary/) and [ticketed](https://make.wordpress.org/core/handbook/reporting-bugs/). Continuous integration means it’s especially important to encourages use of our own software as we develop it and increase awareness for what our users are experiencing day to day.
+-->
+重要な[流れ]](https://make.wordpress.org/test/glossary/)のモニタリングを実践しています。フローパトロール中に遭遇したバグや嫌な経験は[kibbled](https://make.wordpress.org/test/glossary/)と[ticketed](https://make.wordpress.org/core/handbook/reporting-bugs/)です。継続的なインテグレーションは、我々のソフトウェアを開発する際に、我々のソフトウェアの使用を奨励し、ユーザーが日々体験していることへの意識を高めることが特に重要であることを意味します。
 
 *   Continuously exercise major flows. [Publishing a captioned gallery](https://make.wordpress.org/test/2015/04/22/publish-a-captioned-gallery-iphone-6-portrait/) starting from the logged-in front page, for example, is an important flow that exercises the toolbar, editor, media modal, and galleries. Regressions anywhere in this flow should be noticed and fixed promptly.
 *   Continuously exercise flows through new features as they are developed.
