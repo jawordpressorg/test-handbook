@@ -11,7 +11,7 @@
 <!--
 Full Site Editing (FSE) is a major focus of [Gutenberg’s Phase Two](https://github.com/WordPress/gutenberg/issues/13113) work and [for 2021 goals.](https://make.wordpress.org/updates/2021/01/21/big-picture-goals-2021/) The [Full Site Editing Outreach Program](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) was created as an experiment to get feedback early and often from the community about this feature. While [calls for testing](https://make.wordpress.org/test/tag/fse-testing-call/) are shared as frequently as possible, there are times when there isn’t an active call for testing but that doesn’t mean you can’t help test this feature. This guide aims to give you everything you need to start testing Full Site Editing. 
 -->
-Full Site Editing (FSE) は、[Gutenberg のフェーズ2](https://github.com/WordPress/gutenberg/issues/13113) と [2021年のゴールにむけて](https://make.wordpress.org/updates/2021/01/21/big-picture-goals-2021/) における主眼です。[Full Site Editing アウトリーチプログラム](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) は、この機能に関するコミュニティからのフィードバックを早期かつ頻繁に得るための実験として作成されました。[テストへの協力募集](https://make.wordpress.org/test/tag/fse-testing-call/)は可能な限り頻繁に共有されています、アクティブなテストの呼びかけがない場合もありますが、この機能のテストを手伝うことができないわけではありません。このガイドは、Full Site Editing のテストを開始するために必要なすべてを提供することを目的としています。
+フルサイト編集 (Full Site Editing 略して FSE) は、[Gutenberg のフェーズ2](https://github.com/WordPress/gutenberg/issues/13113) と [2021年のゴールにむけて](https://make.wordpress.org/updates/2021/01/21/big-picture-goals-2021/) における主眼です。[フルサイト編集アウトリーチプログラム](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) は、この機能に関するコミュニティからのフィードバックを早期かつ頻繁に得るための実験として作成されました。[テストへの協力募集](https://make.wordpress.org/test/tag/fse-testing-call/)は可能な限り頻繁に共有されています、アクティブなテストの呼びかけがない場合もありますが、この機能のテストを手伝うことができないわけではありません。このガイドは、Full Site Editing のテストを開始するために必要なすべてを提供することを目的としています。
 
 <!--
 **What’s the minimum viable product (MVP)?**
@@ -21,12 +21,12 @@ Full Site Editing (FSE) は、[Gutenberg のフェーズ2](https://github.com/Wo
 <!--
 Currently, the minimum viable product is defined as building a site using the Twenty Twenty-One block theme with Full Site Editing without needing to alter code. You can read more about this MVP and the timeline [here](https://make.wordpress.org/core/2021/02/01/full-site-editing-and-themes-where-things-are/). 
 -->
-目下のところ、実用最小限の製品とは Twenty Twenty-One ブロックテーマ でコードを変更することなく Full Site Editing を使ってサイト構築をすることと定義されます。このMVPについて詳しくは[ココ](https://make.wordpress.org/core/2021/02/01/full-site-editing-and-themes-where-things-are/)のタイムラインで読むことができます。
+目下のところ、実用最小限の製品とは Twenty Twenty-One ブロックテーマ でコードを変更することなくフルサイト編集を使ってサイト構築をすることと定義されます。このMVPについて詳しくは[ココ](https://make.wordpress.org/core/2021/02/01/full-site-editing-and-themes-where-things-are/)のタイムラインで読むことができます。
 
 <!--
 **Why should I help test Full Site Editing?** 
 -->
-**どうして Full Site Editing のテストを助けなければいけないのですか?**
+**どうしてフルサイト編集のテストを助けなければいけないのですか?**
 
 <!--
 Following open source philosophy, “given enough eyeballs, all bugs are shallow”. For this feature to be a success for as many people as possible across as many situations as possible, it’s important to get this work to people early to improve future iterations. Think of this as a great way to help create the future of WordPress!
@@ -43,13 +43,14 @@ Before you can begin to test, you need to have a site that can allow you to use 
 -->
 テストを始める前に、この実験的な機能を使用できるサイトを持っている必要があります。リリースされているサイトでテストしないでください。[こちらの指示に従って](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/)ローカルインストールをセットアップしてください。もしくは[このような開発用サイトをセットアップするツール](https://localwp.com/)を使用してください。
 
-
-Before you can begin to test, you need to have a site that can allow you to use this experimental feature. Please do not test on a production site. You can [follow these instructions](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/) to set up a local install or you can use a [tool like this to set up a development site](https://localwp.com/). 
-Before you can begin to test, you need to have a site that can allow you to use this experimental feature. Please do not test on a production site. You can [follow these instructions](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/) to set up a local install or you can use a [tool like this to set up a development site](https://localwp.com/). 
-
+<!--
 *   Use the latest version of WordPress or at least WordPress 5.6+ (downloadable [here](https://wordpress.org/download/)).
 *   Use the [TT1 Blocks Theme](https://wordpress.org/themes/tt1-blocks/). This is the block version of the Twenty Twenty-One theme. 
 *   Use the latest version of Gutenberg or at least Gutenberg 9.6+ ([latest version](https://github.com/WordPress/gutenberg/releases/)). 
+-->
+* 　WordPress の最新バージョンか最低でも WordPress 5.6 以上を使用してください ([ココからダウンロードできます](https://wordpress.org/download/))。
+*  [TT1 Blocks Theme](https://wordpress.org/themes/tt1-blocks/) を使用してください。これは Twenty Twenty-One テーマのブロック版です。
+*  Gutenberg の最新バージョンか最低でも Gutenberg 9.6 以上を使用してください。（[最新版](https://github.com/WordPress/gutenberg/releases/)）。
 
 Once you have all of these items in place, you should now see a navigation item titled “Site Editor (beta)”. Here’s a screenshot of what you should see:
 
