@@ -48,15 +48,21 @@ Before you can begin to test, you need to have a site that can allow you to use 
 *   Use the [TT1 Blocks Theme](https://wordpress.org/themes/tt1-blocks/). This is the block version of the Twenty Twenty-One theme. 
 *   Use the latest version of Gutenberg or at least Gutenberg 9.6+ ([latest version](https://github.com/WordPress/gutenberg/releases/)). 
 -->
-* 　WordPress の最新バージョンか最低でも WordPress 5.6 以上を使用してください ([ココからダウンロードできます](https://wordpress.org/download/))。
+*  WordPress の最新バージョンか最低でも WordPress 5.6 以上を使用してください ([ココからダウンロードできます](https://wordpress.org/download/))。
 *  [TT1 Blocks Theme](https://wordpress.org/themes/tt1-blocks/) を使用してください。これは Twenty Twenty-One テーマのブロック版です。
 *  Gutenberg の最新バージョンか最低でも Gutenberg 9.6 以上を使用してください。（[最新版](https://github.com/WordPress/gutenberg/releases/)）。
 
+<!--
 Once you have all of these items in place, you should now see a navigation item titled “Site Editor (beta)”. Here’s a screenshot of what you should see:
+-->
+これらの項目をすべて配置したら、「サイト編集（ベータ）」というタイトルのナビゲーション項目が表示されるはずです。以下、スクリーンショットをご覧ください。
 
 ![](https://lh3.googleusercontent.com/RHp-P8Vy9FCzPl8X70pbCzaSRZO5iufRuJ6FlcJJJu-Fa4LHGpEMk6ZcRx65FoI-GXLp7mG03XaZ7wFbcnu4BTJxb-fOUqk_IgbmEeQ3haB6hmDrgsuncGonSB-Y6rLfJL02qQXC)
 
+<!--
 If you don’t see that in your WordPress admin, you aren’t properly using the Site Editing experiment. If you need help, please ask in the [#fse-outreach-experiment](https://make.wordpress.org/test/tag/fse-outreach-experiment/) channel in [WordPress.org slack](https://make.wordpress.org/chat/). 
+-->
+もしそれが WordPress の管理画面で出てこない場合は、おそらくサイト編集機能を使えません。助けが必要であれば、[WordPress.org slack](https://make.wordpress.org/chat/) の [#fse-outreach-experiment](https://make.wordpress.org/test/tag/fse-outreach-experiment/) チャンネルで質問してください。
 
 **Step 2: Explore and test different features**
 
