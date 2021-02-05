@@ -1,4 +1,4 @@
-# Full Site Editing Outreach Experiment
+# Full Site Editing Outreach Program
 
 *For context on this program, please review [this post](https://make.wordpress.org/core/2020/05/01/an-experimental-outreach-project-for-full-site-editing/) shared on May 1st* *kicking off this experiment*
 
