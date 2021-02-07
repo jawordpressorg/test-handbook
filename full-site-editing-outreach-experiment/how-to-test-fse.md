@@ -11,17 +11,17 @@
 <!--
 Full Site Editing (FSE) is a major focus of [Gutenberg’s Phase Two](https://github.com/WordPress/gutenberg/issues/13113) work and [for 2021 goals.](https://make.wordpress.org/updates/2021/01/21/big-picture-goals-2021/) The [Full Site Editing Outreach Program](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) was created as an experiment to get feedback early and often from the community about this feature. While [calls for testing](https://make.wordpress.org/test/tag/fse-testing-call/) are shared as frequently as possible, there are times when there isn’t an active call for testing but that doesn’t mean you can’t help test this feature. This guide aims to give you everything you need to start testing Full Site Editing.
 -->
-フルサイト編集 (Full Site Editing 略して FSE) は、[Gutenberg のフェーズ2](https://github.com/WordPress/gutenberg/issues/13113) と [2021年のゴールにむけて](https://make.wordpress.org/updates/2021/01/21/big-picture-goals-2021/) における主眼です。[フルサイト編集アウトリーチプログラム](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) は、この機能に関するコミュニティからのフィードバックを早期かつ頻繁に得るための実験として作成されました。[テストへの協力募集](https://make.wordpress.org/test/tag/fse-testing-call/)は可能な限り頻繁に共有されています、アクティブなテストの呼びかけがない場合もありますが、この機能のテストを手伝うことができないわけではありません。このガイドは、Full Site Editing のテストを開始するために必要なすべてを提供することを目的としています。
+フルサイト編集 (Full Site Editing 略して FSE) は、[Gutenberg のフェーズ2](https://github.com/WordPress/gutenberg/issues/13113) と [2021年のゴールにむけて](https://make.wordpress.org/updates/2021/01/21/big-picture-goals-2021/) における主眼です。[フルサイト編集アウトリーチプログラム](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) は、この機能に関するコミュニティからのフィードバックを早期かつ頻繁に得るための試みとして作成されました。[テストへの協力募集](https://make.wordpress.org/test/tag/fse-testing-call/)は可能な限り頻繁に共有されています。稼働中のテストの呼びかけがない場合もありますが、この機能のテストを手伝うことができないわけではありません。このガイドは、Full Site Editing のテストを開始するために必要なすべてを提供することを目的としています。
 
 <!--
 **What’s the minimum viable product (MVP)?**
 -->
-**実用最小限の製品（MVP）とは何でしょうか？**
+**実用最小限の製品（minimum viable product 略して MVP）とは何でしょうか？**
 
 <!--
 Currently, the minimum viable product is defined as building a site using the Twenty Twenty-One block theme with Full Site Editing without needing to alter code. You can read more about this MVP and the timeline [here](https://make.wordpress.org/core/2021/02/01/full-site-editing-and-themes-where-things-are/). 
 -->
-目下のところ、実用最小限の製品とは Twenty Twenty-One ブロックテーマ でコードを変更することなくフルサイト編集を使ってサイト構築をすることと定義されます。このMVPについて詳しくは[ココ](https://make.wordpress.org/core/2021/02/01/full-site-editing-and-themes-where-things-are/)のタイムラインで読むことができます。
+目下のところ、実用最小限の製品とは Twenty Twenty-One ブロックテーマ（訳注: FSE に特化した実験的なテーマの一つで、デフォルトテーマとしてWordPress本体に内包されるTwenty Twenty-One テーマとは別に存在します）でコードを変更することなくフルサイト編集を使ってサイト構築をすることと定義されます。このMVPについて詳しくは[ココ](https://make.wordpress.org/core/2021/02/01/full-site-editing-and-themes-where-things-are/)のタイムラインで読むことができます。
 
 <!--
 **Why should I help test Full Site Editing?** 
@@ -92,7 +92,7 @@ Anyone:
 *   404ページかシングルページのテンプレートなどを編集してください。
 *   コンテンツやテンプレートをさまざまな閲覧環境で確認してください。
 *   サイトを構築しようとしてみてください。
-*   [テーマ実験リポジトリ](https://github.com/WordPress/theme-experiments#instructions)からTT1以外のテーマを使ってみましょう。
+*   [テーマ実験リポジトリ](https://github.com/WordPress/theme-experiments#instructions)からTT1以外のテーマも使ってみてください。
 
 <!--
 Theme authors:
@@ -112,12 +112,12 @@ Theme authors:
 *   [ブロックテンプレート](https://developer.wordpress.org/block-editor/developers/block-api/block-templates/)、[ブロックパターン](https://developer.wordpress.org/block-editor/developers/block-api/block-patterns/)や[ブロックスタイルのバリエーション](https://developer.wordpress.org/block-editor/developers/filters/block-filters/#block-style-variations)を作成してください。
 *   [テーマ実験リポジトリ](https://github.com/WordPress/theme-experiments#instructions)からテーマを探してテストしたり探索してみてください。
 *   ブロックテーマについての知識を増やす助けとして[このシリーズの記事を見直してください](https://themeshaper.com/tag/full-site-editing/) 。
-*   [自分のブロックテーマを構築](https://developer.wordpress.org/block-editor/tutorials/block-based-themes/) し、[現状のドキュメンテーション](https://developer.wordpress.org/block-editor/developers/themes/)を見直してください。
+*   [自分のブロックテーマを構築](https://developer.wordpress.org/block-editor/tutorials/block-based-themes/)し、[現状のドキュメンテーション](https://developer.wordpress.org/block-editor/developers/themes/)を見直してください。
 
 <!--
 Plugin authors: Create a Block by [following this tutorial](https://developer.wordpress.org/block-editor/tutorials/create-block/). If your current plugins impact [Navigation](https://github.com/WordPress/gutenberg/projects/31) or [Widgets](https://github.com/WordPress/gutenberg/projects/27), review the respective projects underway to add block functionality to those experiences. Both of those projects help pave the way to Full Site Editing.
 -->
-プラグイン製作者の方へ: [このチュートリアル](https://developer.wordpress.org/block-editor/tutorials/create-block/)に従ってブロックを作成してください。現状のプラグインが[ナビゲーション](https://github.com/WordPress/gutenberg/projects/31)または[Widgets](https://github.com/WordPress/gutenberg/projects/27)に影響するのであれば、それらの経験をブロックの機能に追加するよう進行中のそれぞれのプロジェクトを見直してください。どちらのプロジェクトも、フルサイト編集への道を開くのに役立ちます。
+プラグイン製作者の方へ: [このチュートリアル](https://developer.wordpress.org/block-editor/tutorials/create-block/)に従ってブロックを作成してください。現状のプラグインが[ナビゲーション](https://github.com/WordPress/gutenberg/projects/31)または[ウィジェット](https://github.com/WordPress/gutenberg/projects/27)に影響するのであれば、それらの経験をブロックの機能に追加するよう進行中のそれぞれのプロジェクトを見直してください。どちらのプロジェクトも、フルサイト編集への道を開くのに役立ちます。
 
 <!--
 **Step 3: Share feedback**
