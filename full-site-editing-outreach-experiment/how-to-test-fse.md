@@ -21,7 +21,7 @@ Full Site Editing (FSE) is a major focus of [Gutenberg’s Phase Two](https://gi
 <!--
 Currently, the minimum viable product is defined as building a site using the Twenty Twenty-One block theme with Full Site Editing without needing to alter code. You can read more about this MVP and the timeline [here](https://make.wordpress.org/core/2021/02/01/full-site-editing-and-themes-where-things-are/). 
 -->
-目下のところ、実用最小限の製品とは Twenty Twenty-One ブロックテーマ（訳注: FSE に特化した実験的なテーマの一つで、デフォルトテーマとして WordPress 本体に内包される Twenty Twenty-One テーマとは別に存在します）でコードを変更することなくフルサイト編集を使ってサイト構築をすることと定義されます。この MVP について詳しくは[ココ](https://make.wordpress.org/core/2021/02/01/full-site-editing-and-themes-where-things-are/)のタイムラインで読むことができます。
+目下のところ、実用最小限の製品とは Twenty Twenty-One ブロックテーマ（訳注: FSE に特化した実験的なテーマの一つで、標準のテーマとして WordPress 本体に内包される Twenty Twenty-One テーマとは別に存在します）でコードを変更することなくフルサイト編集を使ってサイト構築をすることと定義されます。この MVP について詳しくは[ココ](https://make.wordpress.org/core/2021/02/01/full-site-editing-and-themes-where-things-are/)のタイムラインで読むことができます。
 
 <!--
 **Why should I help test Full Site Editing?** 
