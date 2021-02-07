@@ -11,7 +11,7 @@
 <!--
 Full Site Editing (FSE) is a major focus of [Gutenberg’s Phase Two](https://github.com/WordPress/gutenberg/issues/13113) work and [for 2021 goals.](https://make.wordpress.org/updates/2021/01/21/big-picture-goals-2021/) The [Full Site Editing Outreach Program](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) was created as an experiment to get feedback early and often from the community about this feature. While [calls for testing](https://make.wordpress.org/test/tag/fse-testing-call/) are shared as frequently as possible, there are times when there isn’t an active call for testing but that doesn’t mean you can’t help test this feature. This guide aims to give you everything you need to start testing Full Site Editing.
 -->
-フルサイト編集 (Full Site Editing 略して FSE) は、[Gutenberg のフェーズ2](https://github.com/WordPress/gutenberg/issues/13113) と [2021年のゴールにむけて](https://make.wordpress.org/updates/2021/01/21/big-picture-goals-2021/) における主眼です。[フルサイト編集アウトリーチプログラム](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) は、この機能に関するコミュニティからのフィードバックを早期かつ頻繁に得るための試みとして作成されました。[テストへの協力募集](https://make.wordpress.org/test/tag/fse-testing-call/)は可能な限り頻繁に共有されています。稼働中のテストの呼びかけがない場合もありますが、この機能のテストを手伝うことができないわけではありません。このガイドは、Full Site Editing のテストを開始するために必要なすべてを提供することを目的としています。
+フルサイト編集 (Full Site Editing 略して FSE) は、[Gutenberg のフェーズ2](https://github.com/WordPress/gutenberg/issues/13113) と [2021年のゴールにむけて](https://make.wordpress.org/updates/2021/01/21/big-picture-goals-2021/) における主眼です。[フルサイト編集アウトリーチプログラム](https://make.wordpress.org/test/handbook/full-site-editing-outreach-experiment/) は、この機能に関するコミュニティからのフィードバックを早期かつ頻繁に得るための試みとして作成されました。[テストへの協力募集](https://make.wordpress.org/test/tag/fse-testing-call/)は可能な限り頻繁に共有されています。稼働中のテストの呼びかけがない場合もありますが、この機能のテストを手伝うことができないわけではありません。このガイドは、フルサイト編集のテストを開始するために必要なすべてを提供することを目的としています。
 
 <!--
 **What’s the minimum viable product (MVP)?**
@@ -21,7 +21,7 @@ Full Site Editing (FSE) is a major focus of [Gutenberg’s Phase Two](https://gi
 <!--
 Currently, the minimum viable product is defined as building a site using the Twenty Twenty-One block theme with Full Site Editing without needing to alter code. You can read more about this MVP and the timeline [here](https://make.wordpress.org/core/2021/02/01/full-site-editing-and-themes-where-things-are/). 
 -->
-目下のところ、実用最小限の製品とは Twenty Twenty-One ブロックテーマ（訳注: FSE に特化した実験的なテーマの一つで、デフォルトテーマとしてWordPress本体に内包されるTwenty Twenty-One テーマとは別に存在します）でコードを変更することなくフルサイト編集を使ってサイト構築をすることと定義されます。このMVPについて詳しくは[ココ](https://make.wordpress.org/core/2021/02/01/full-site-editing-and-themes-where-things-are/)のタイムラインで読むことができます。
+目下のところ、実用最小限の製品とは Twenty Twenty-One ブロックテーマ（訳注: FSE に特化した実験的なテーマの一つで、デフォルトテーマとして WordPress 本体に内包される Twenty Twenty-One テーマとは別に存在します）でコードを変更することなくフルサイト編集を使ってサイト構築をすることと定義されます。この MVP について詳しくは[ココ](https://make.wordpress.org/core/2021/02/01/full-site-editing-and-themes-where-things-are/)のタイムラインで読むことができます。
 
 <!--
 **Why should I help test Full Site Editing?** 
@@ -127,9 +127,9 @@ Plugin authors: Create a Block by [following this tutorial](https://developer.wo
 <!--
 For feedback that relates to the TT1 theme, please open issues in the [Theme Experiment’s GitHub repository](https://github.com/WordPress/theme-experiments/issues).
 -->
-TT1テーマに関連するフィードバックについては、[テーマ実験のGitHubリポジトリ](https://github.com/WordPress/theme-experiments/issues)に課題（Issue）を立ててください。
+TT1テーマに関連するフィードバックについては、[テーマ実験の GitHub リポジトリ](https://github.com/WordPress/theme-experiments/issues)に課題（Issue）を立ててください。
 
 <!--
 For feedback that relates to the Full Site Editing experience, please open issues on [Gutenberg’s GitHub repository](https://github.com/WordPress/gutenberg/issues/).
 -->
-フルサイト編集全体の体験についてのフィードバックは、[GutenbergのGitHubリポジトリ](https://github.com/WordPress/gutenberg/issues/)に課題（Issue）を立ててください。
+フルサイト編集全体の体験についてのフィードバックは、[Gutenberg の GitHub リポジトリ](https://github.com/WordPress/gutenberg/issues/)に課題（Issue）を立ててください。
