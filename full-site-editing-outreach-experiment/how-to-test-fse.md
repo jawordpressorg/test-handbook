@@ -57,7 +57,10 @@ Once you have all of these items in place, you should now see a navigation item 
 -->
 これらの項目をすべて配置したら、「サイト編集（ベータ）」というタイトルのナビゲーション項目が表示されるはずです。以下、スクリーンショットをご覧ください。
 
+<!-- 
 ![](https://lh3.googleusercontent.com/RHp-P8Vy9FCzPl8X70pbCzaSRZO5iufRuJ6FlcJJJu-Fa4LHGpEMk6ZcRx65FoI-GXLp7mG03XaZ7wFbcnu4BTJxb-fOUqk_IgbmEeQ3haB6hmDrgsuncGonSB-Y6rLfJL02qQXC)
+ -->
+![](https://github.com/miminari/handbook-test/blob/traslate/how-to-test-fse/full-site-editing-outreach-experiment/ss_menu-FSE-in-ja.png?raw=true)
 
 <!--
 If you don’t see that in your WordPress admin, you aren’t properly using the Site Editing experiment. If you need help, please ask in the [#fse-outreach-experiment](https://make.wordpress.org/test/tag/fse-outreach-experiment/) channel in [WordPress.org slack](https://make.wordpress.org/chat/). 
