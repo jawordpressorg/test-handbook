@@ -107,7 +107,7 @@ Theme authors:
 *   [Review this series of posts](https://themeshaper.com/tag/full-site-editing/) to help expand your knowledge of block theming.
 *   [Build your own block theme](https://developer.wordpress.org/block-editor/tutorials/block-based-themes/) and review [current documentation](https://developer.wordpress.org/block-editor/developers/themes/).
 -->
-*   クエリブロックを試して、将来のテーマ構築にそれが使えそうか見てください。[この短い動画](https://cloudup.com/cPKHAvWp3MN) でどのように始めるかウォークスルーができます。
+*   クエリブロックを試して、将来のテーマ構築にそれが使えそうか見てください。[この短い動画](https://cloudup.com/cPKHAvWp3MN)でどのように始めるかウォークスルーができます。
 *   [グローバルスタイルに慣れてください](https://developer.wordpress.org/block-editor/developers/themes/theme-json/)。
 *   [ブロックテンプレート](https://developer.wordpress.org/block-editor/developers/block-api/block-templates/)、[ブロックパターン](https://developer.wordpress.org/block-editor/developers/block-api/block-patterns/)や[ブロックスタイルのバリエーション](https://developer.wordpress.org/block-editor/developers/filters/block-filters/#block-style-variations)を作成してください。
 *   [テーマ実験リポジトリ](https://github.com/WordPress/theme-experiments#instructions)からテーマを探してテストしたり探索してみてください。
