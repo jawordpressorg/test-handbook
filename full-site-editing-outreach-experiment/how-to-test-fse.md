@@ -55,7 +55,7 @@ Before you can begin to test, you need to have a site that can allow you to use 
 <!--
 Once you have all of these items in place, you should now see a navigation item titled “Site Editor (beta)”. Here’s a screenshot of what you should see:
 -->
-これらの項目をすべて配置したら、「サイト編集（ベータ）」というタイトルのナビゲーション項目が表示されるはずです。以下、スクリーンショットをご覧ください。
+これらの項目をすべて配置したら、「サイトエディター（ベータ）」というタイトルのナビゲーション項目が表示されるはずです。以下、スクリーンショットをご覧ください。
 
 <!-- 
 ![](https://lh3.googleusercontent.com/RHp-P8Vy9FCzPl8X70pbCzaSRZO5iufRuJ6FlcJJJu-Fa4LHGpEMk6ZcRx65FoI-GXLp7mG03XaZ7wFbcnu4BTJxb-fOUqk_IgbmEeQ3haB6hmDrgsuncGonSB-Y6rLfJL02qQXC)
