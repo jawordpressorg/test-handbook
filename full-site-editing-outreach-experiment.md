@@ -32,7 +32,7 @@ WordPress サイトビルダーからのフィードバックを収集するこ�
 We’ll start with more limited common user experiences and, over time, will move to more complex testing (adding in different themes, plugins, etc). For example, this means that we won’t be testing across a wide range of themes, but will start with a fairly simple setup of Gutenberg and a FSE ready block theme. While this might mean the program starts off more slowly, over time, the hope is that we get into a fast pace with multiple items to test each month and feedback integrating into the Gutenberg team’s workflow.
  -->
 
-より限定された一般的なユーザー体験から始め、時間の経過にともない、より複雑なテスト（さまざまなテーマ、プラグインなどの追加）に移行します。たとえばこれは幅広いテーマでテストするのではなく、 Gutenberg のかなり単純なセットアップと FSE 対応のブロックテーマから始めることを意味します。そして、それはプログラムの開始が遅くなることを意味するかもしれませんが、時間が経つにしたがい毎月テストする複数の項目と Gutenberg チームのワークフローに統合されるフィードバックで速いペースに入ることが期待されます。
+まず限定された一般的なユーザー体験から始め、時間が経つとともに、より複雑なテスト（さまざまなテーマ、プラグインなどの追加）に移行します。これは幅広いテーマでテストするのではなく、 Gutenberg のかなり単純なセットアップと FSE 対応のブロックテーマから始めることを意味しています。そのことは、この(アウトリーチ)プログラムの開始が遅くなることを意味するかもしれません。ですが、時間の経過とともに毎月テストする複数の項目と Gutenberg チームのワークフローに統合されるフィードバックによって、速いペースで開始することが期待されます。
 
 <!--
 **Communication:**
@@ -43,7 +43,7 @@ We’ll start with more limited common user experiences and, over time, will mov
 All calls for testing and summaries will be shared on [Make Test](https://make.wordpress.org/test/) with a cross post to [Make Core](https://make.wordpress.org/core/). Here are the tags you can use to follow along specifically:
  -->
 
-テストと要約のすべての呼び出しは、[Make Test]（https://make.wordpress.org/test/）で、[Make Core]（https://make.wordpress.org/core/）へのクロスポスト(複数投稿)とともに共有されるでしょう。特定のフォローするために使用できるタグはこのとおりです。
+テストと要約のすべての呼び出しは、[Make Test(テストを作る)]（https://make.wordpress.org/test/）で、[Make Core(コアを作る)]（https://make.wordpress.org/core/）へのクロスポスト(複数投稿)とともに共有されるでしょう。具体的にフォローするために使用できるタグは以下のとおりです。
 
 <!--
 *   Calls for testing: [#fse-testing-call](https://make.wordpress.org/test/tag/fse-testing-call/) 
@@ -71,7 +71,7 @@ If you have questions about the FSE project separate from this outreach program,
 To help stay up to date on the FSE work itself, please review this post on [ways to keep up with FSE](https://make.wordpress.org/core/2020/05/20/ways-to-keep-up-with-full-site-editing-fse/).
 -->
 
-FSEの作業自体の最新情報を入手するには、[ways to keep up with FSE(FSEに遅れずついていく方法)](https://make.wordpress.org/core/2020/05/20/ways-to-keep-up-with-full-site-editing-fse/)
+FSEの作業自体の最新情報を入手するには、[ways to keep up with FSE(FSEに遅れずついていく方法)](https://make.wordpress.org/core/2020/05/20/ways-to-keep-up-with-full-site-editing-fse/)の投稿を確認してください。
 
 <!--
 **Amplification:**
@@ -94,10 +94,10 @@ To get the word out to more people who can help test, the following pathways are
  -->
 
 * [#fse-outreach-experiment]（https://make.wordpress.org/test/tag/fse-outreach-experiment/） Slack チャンネルのメッセージ。
-* Make Core へのクロスポストを使用して Make Test を投稿します。
-*「今月のWordPress」の投稿に含まれています。
+* [Make Core(コアを作る)]へのクロスポストを使用して[Make Test(コアをテストする)]を投稿します。
+* "今月の WordPress"の投稿に含まれています。
 * Core Dev、Core Editor、Marketing などを含む、さまざまな会議への参加。
-* テストに役立つ[この最初のボランティア募集]（https://make.wordpress.org/core/2020/05/01/an-experimental-outreach-project-for-full-site-editing/）からの最初のEメール配布リストです。これは、テストの最初の数ラウンドでのみ使用されます。
+* テストに役立つ[この最初のボランティア募集]（https://make.wordpress.org/core/2020/05/01/an-experimental-outreach-project-for-full-site-editing/）からの最初のEメール配布リストです。これはテストの最初の数ラウンドでのみ使用されます。
 
 <!--
 **Format:**
@@ -109,7 +109,7 @@ To get the word out to more people who can help test, the following pathways are
 A prompt will be shared on [Make Test](https://make.wordpress.org/test/) with details about testing environment, a testing script to follow, and where to give feedback by when. For now, feedback will be processed and reported appropriately. As needed, a follow up post summarizing the findings will be posted.
  -->
 
-プロンプトは[Make Test]（https://make.wordpress.org/test/）で共有され、テスト環境、従うべきテストスクリプト、いつまでにフィードバックを提供するかについての詳細が示されます。今のところ、フィードバックは適切に処理され、報告されます。必要に応じて、調査結果を要約したフォローアップ投稿が投稿されます。
+プロンプトは[Make Test(テストを作る)]（https://make.wordpress.org/test/）で共有され、テスト環境や従うべきテストスクリプト、いつまでにフィードバックを提供するかについての詳細が示されます。今のところ、フィードバックは適切に処理され、報告されます。必要に応じて、調査結果を要約したフォローアップ投稿が投稿されます。
 
 <!--
 In time, the ideal is to have a faster cycle of prompts and feedback that might look more like this:
@@ -127,7 +127,7 @@ In time, the ideal is to have a faster cycle of prompts and feedback that might 
 To start though, the prompts will be slower paced and spaced out in order to get our bearings and to align with the current pace of work being done.
  -->
 
-ただし最初に、プロンプトのペースを遅くし、間隔を空けてベアリングを取得し、現在行われている作業のペースに合わせます。
+ただし最初に、そのプロンプトは私たちの方向性を把握し、現在行われている作業のペースに合わせるためにペースを遅くし、間隔を空けます。
 
 <!--
 **Tools:**
@@ -139,7 +139,7 @@ To start though, the prompts will be slower paced and spaced out in order to get
 While you are free to use your own testing environment and follow [these instructions](https://make.wordpress.org/test/handbook/get-setup-for-testing/), we wanted to share basic tools you’ll need to get started:
  -->
 
-独自のテスト環境を自由に使用して[these instructions(これらの手順)]（https://make.wordpress.org/test/handbook/get-setup-for-testing/）に従う一方で、基本的なツールを共有したいと思いました。始める必要があります：
+あなた自身のテスト環境を自由に使用して、[these instructions(これらの手順)]（https://make.wordpress.org/test/handbook/get-setup-for-testing/）に従って始めることができますが、一方でテストを始めるために必要な基本的なツールを共有したいと思いました:
 
 <!--
 *   [Gutenberg.run](http://gutenberg.run/): The tool to spin up and test Gutenberg PRs. 
@@ -148,5 +148,5 @@ While you are free to use your own testing environment and follow [these instruc
  -->
 
 * [Gutenberg.run]（http://gutenberg.run/）: Gutenberg PRs をスピンアップしてテストするためのツール。
-* [テーマ実験]（https://github.com/wordpress/theme-experiments/）: テストに使用するブロックテーマのリポジトリ、またはテーマリポジトリ内の現在のブロックテーマの1つ（[Q]（https：/ /wordpress.org/themes/q/)、[Bosco]（https://wordpress.org/themes/block-based-bosco/））。一貫性を保つためにこれらのテーマのいずれかを使用するようお願いします。
+* [テーマ実験]（https://github.com/wordpress/theme-experiments/）: テストに使用するブロックテーマのリポジトリ、またはテーマリポジトリ内の現在のブロックテーマの1つ（[Q]（https://wordpress.org/themes/q/)、[Bosco]（https://wordpress.org/themes/block-based-bosco/））。一貫性を保つためにこれらのテーマのいずれかを使用するようお願いします。
 * [GIPHY Capture]（https://giphy.com/）または[LICEcap]（https://www.cockos.com/licecap/）: GIFをキャプチャして、発生する可能性のあるバグをより明確に強調するためのツール。
