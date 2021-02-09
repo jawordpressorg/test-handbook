@@ -94,7 +94,7 @@ To get the word out to more people who can help test, the following pathways are
  -->
 
 * [#fse-outreach-experiment]（https://make.wordpress.org/test/tag/fse-outreach-experiment/） Slack チャンネルのメッセージ。
-* [Make Core(コアを作る)]へのクロスポストを使用して[Make Test(コアをテストする)]を投稿します。
+* [Make Core(コアを作る)]へのクロスポストを使用して[Make Test(テストを作る)]を投稿します。
 * "今月の WordPress"の投稿に含まれています。
 * Core Dev、Core Editor、Marketing などを含む、さまざまな会議への参加。
 * テストに役立つ[この最初のボランティア募集]（https://make.wordpress.org/core/2020/05/01/an-experimental-outreach-project-for-full-site-editing/）からの最初のEメール配布リストです。これはテストの最初の数ラウンドでのみ使用されます。
