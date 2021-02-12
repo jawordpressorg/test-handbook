@@ -147,6 +147,6 @@ While you are free to use your own testing environment and follow [these instruc
 *   [GIPHY Capture](https://giphy.com/) or [LICEcap](https://www.cockos.com/licecap/): Tools to capture GIFs to better highlight any bugs you might run into.
  -->
 
-* [Gutenberg.run] (http://gutenberg.run/) : Gutenberg PRs をスピンアップしてテストするためのツール。
+* [Gutenberg.run] (http://gutenberg.run/) : Gutenberg PRs を立ち上げてテストするためのツール。
 * [テーマ実験] (https://github.com/wordpress/theme-experiments/) : テストに使用するブロックテーマのリポジトリ、またはテーマリポジトリ内の現在のブロックテーマの1つ ([Q] (https://wordpress.org/themes/q/)、[Bosco] (https://wordpress.org/themes/block-based-bosco/) ) 。一貫性を保つためにこれらのテーマのいずれかを使用するようお願いします。
 * [GIPHY Capture] (https://giphy.com/) または[LICEcap] (https://www.cockos.com/licecap/) : GIF をキャプチャして、発生する可能性のあるバグをより明確に強調するためのツール。
